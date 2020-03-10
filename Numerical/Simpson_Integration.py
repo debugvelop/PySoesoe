@@ -20,4 +20,5 @@ upper = float(input("Upper Limit: "))
 lower = float(input("Lower Limit: "))
 iteration = int(input("Iteration: "))
 func = sympify(expression)
+
 print(simpsonIntegration(upper, lower, iteration))
