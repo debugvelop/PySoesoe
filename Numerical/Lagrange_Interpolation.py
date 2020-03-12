@@ -2,6 +2,7 @@ import numpy
 import matplotlib.pyplot as plotter
 import scipy.interpolate as interpolate
 
+#input the coordinates here
 x_axis = numpy.array([1,4,7,11])
 y_axis = numpy.array([3,5,6,10])
 
